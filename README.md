@@ -6,6 +6,14 @@ Mario Kart Wii has been played competitively for 15 years now. Despite this, the
 
 My goal with this page is to compile as much technical knowledge as possible directly or closely related to latency in Mario Kart Wii. I will be using information from others and will credit them at the bottom.
 
+# TL;DR
+
+Perfect setup:
+- Console: Wii
+- Controller: Gamecube Controller > Classic Controller via Raphnet adapter > Wiichuck/CC via 2.4g BT
+- Monitor: CRT Monitor (or Viewsonic XG2431) > CRT TV (preferably with component) > High tier LCD monitors > LCD TVs
+- Network: Ethernet via USB > Wireless
+
 # Importance of low input lag
 
 - ["While participants performed dragging and scribbling tasks, very low levels of latency could be discriminated, i.e., ~1 versus 2 milliseconds while dragging"](https://doi.org/10.1145/2556288.2557037).
@@ -18,6 +26,8 @@ My goal with this page is to compile as much technical knowledge as possible dir
 # Console
 
 Wiis are superior to Wii U for latency. vWii emulation on the Wii U introduces roughly 1 frame of latency (16ms) (source:https://www.youtube.com/watch?v=Lb8zj5uKifk). 
+
+[4:3 provides more vertical FOV, while 16:9 provides more horizontal FOV:](https://i.imgur.com/ctfwVZO.jpeg)
 
 # Controller
 
@@ -34,6 +44,11 @@ I also do not have access to an oscilloscope at the moment, so I cannot do laten
 There is an adapter for the Classic Controller that allows it to connect to a GC port. This adapter has 4ms of latency, so it will cut the input latency by roughly 12ms.
 
 # Monitor
+CRTs will always be the best displays for console games due to them having virtually 0 input lag and perfect motion clarity. There are *some* LCDs that get within 1-2ms of a CRT's input lag, however, almost all of these have horrible response times, leading to non-static 3D objects (such as walls, items, etc.) to be blurry.
+
+Most CRT monitors have a 15khz minimum scan limit, which means 480i@60fps will not work. However, 480p@60fps is 31khz, and reaches the minimum scan limit. Because of this, any CRT monitor will provide lagless gameplay and you do not need to search for a high spec model that will cost you upwards of $500. 
+
+
 
 
 
