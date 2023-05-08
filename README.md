@@ -2,7 +2,7 @@
 
 
 # Intro
-Mario Kart Wii has been played competitively for 15 years now. Despite this, there is no resource for optimal setups or ways to optimize your setup for low latency. Players have long since been playing on laggy TVs or monitors without thinking much of it. However, lowering latency can be greatly beneficial to your ability to react quickly to things. 
+Mario Kart Wii has been played competitively for 15 years now. Despite this, there is no resource for optimal setups or ways to optimize your setup for low latency.
 
 My goal with this page is to compile as much technical knowledge as possible directly or closely related to latency in Mario Kart Wii. I will be using information from others and will credit them at the bottom.
 
@@ -25,9 +25,10 @@ Perfect setup:
 
 # Console
 
-Wiis are superior to Wii U for latency. vWii emulation on the Wii U introduces roughly 1 frame of latency (16ms) (source:https://www.youtube.com/watch?v=Lb8zj5uKifk). 
-
-[4:3 provides more vertical FOV, while 16:9 provides more horizontal FOV:](https://i.imgur.com/ctfwVZO.jpeg)
+- Wiis are superior to Wii U for latency. vWii emulation on the Wii U introduces roughly 1 frame of latency (16ms) (source:https://www.youtube.com/watch?v=Lb8zj5uKifk).
+- [4:3 provides more vertical FOV, while 16:9 provides more horizontal FOV:](https://i.imgur.com/ctfwVZO.jpeg)
+- [WiiDual](https://www.retrorgb.com/wiidual.html) is a physical mod that enables the Wii to output lagless, high quality 480p via HDMI.
+- [Wii2HDMI Converters add negligible amounts of latency](https://twitter.com/Kadano/status/1026867743587483649)
 
 # Controller
 
@@ -37,16 +38,20 @@ Wired controllers will always have less latency than wireless ones.
 
 However, swapping controllers is not advisable as controller layout/familiarity is far more important than minor latency changes. However, with the adequate modding ability (technical knowledge and soldering), it's most likely possible to mod a wii to accept high-speed wireless. The bluetooth that the wii uses has about 16ms of added latency due to the controller used. Modern consoles have improved on this and gaming mice especially have pushed latency of wireless to be within 1-2ms of wired (or in some cases matching it). 
 
-It may be possible to mod a Wii and controller to use a different bluetooth controller. I have not done testing on this.
+It may be possible to mod a Wii and controller to use a different bluetooth controller.
 
 I also do not have access to an oscilloscope at the moment, so I cannot do latency testing. However, the Bluetooth the Wii uses has been shown to have roughly 16ms of latency in other consoles/applications.
 
 There is an adapter for the Classic Controller that allows it to connect to a GC port. This adapter has 4ms of latency, so it will cut the input latency by roughly 12ms.
 
 # Monitor
-CRTs will always be the best displays for console games due to them having virtually 0 input lag and perfect motion clarity. There are *some* LCDs that get within 1-2ms of a CRT's input lag, however, almost all of these have horrible response times, leading to non-static 3D objects (such as walls, items, etc.) to be blurry.
+CRTs will always be the best displays for console games due to them having virtually 0 input lag and perfect motion clarity. There are *some* LCDs that may get within 1-2ms of a CRT's input lag, however, almost all of these have horrible response times, leading to non-static 3D objects (such as walls, items, etc.) to be blurry. 
 
 Most CRT monitors have a 15khz minimum scan limit, which means 480i@60fps will not work. However, 480p@60fps is 31khz, and reaches the minimum scan limit. Because of this, any CRT monitor will provide lagless gameplay and you do not need to search for a high spec model that will cost you upwards of $500. 
+
+The one downside to CRTs, especially consumer grade CRT TVs, is that they are often quite dark, making certain tracks, such as rBC, more difficult to drive on. 
+
+
 
 
 
