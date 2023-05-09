@@ -31,9 +31,8 @@ Ideal Setup:
 
 Wired controllers will always have less latency than wireless ones.
 
-However, swapping controllers is not advisable as controller layout/familiarity is far more important than minor latency changes. However, with the adequate modding ability (technical knowledge and soldering), it's most likely possible to mod a wii to accept high-speed wireless. 
+However, swapping controllers is not advisable as controller layout/familiarity is far more important than minor latency changes. However, with the adequate modding ability (technical knowledge and soldering), it's most likely possible to mod a wii to accept low latency wireless. 
 
-- It may be possible to mod a Wii and controller to use a different bluetooth controller.
 - The Bluetooth the Wii uses has been shown to have roughly 16ms of latency in other consoles/applications.
 - There is an adapter for the Classic Controller that allows it to connect to a GC port. This adapter has 4ms of latency, so it will cut the input latency by roughly 12ms.
 - Phobb gamecube controllers and other similar will have more accurate and consistent input, as well as better longevity due to using hall-effect sensors rather than a normal stickbox. 
