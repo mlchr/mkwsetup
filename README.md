@@ -50,7 +50,7 @@ The one downside to CRTs, especially consumer grade CRT TVs, is that they are of
 
 The only LCD monitor worth purchasing is the Viewsonic XG2431 due to it's low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag. It will have worse motion clarity than a CRT, however, its response times are far superior to any other monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
 
-[List of LCD monitors input lag @ 60hz]
+[List of LCD monitors input lag @ 60hz (Note: Input](https://www.rtings.com/monitor/tools/table/111202)
 
 
 
