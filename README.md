@@ -1,11 +1,5 @@
 # mkw-setup
 
-
-# Intro
-Mario Kart Wii has been played competitively for 15 years now. Despite this, there is no resource for optimal setups or ways to optimize your setup for low latency.
-
-My goal with this page is to compile as much technical knowledge as possible directly or closely related to latency in Mario Kart Wii. I will be using information from others and will credit them at the bottom.
-
 # TL;DR
 
 Perfect setup:
