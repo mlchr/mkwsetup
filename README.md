@@ -2,7 +2,7 @@
 
 # TL;DR
 
-Perfect setup:
+Ideal Setup:
 - Console: Wii
 - Controller: Gamecube Controller > Classic Controller via Raphnet adapter > Wiichuck/CC via 2.4g BT
 - Monitor: CRT Monitor (or Viewsonic XG2431) > CRT TV (preferably with component) > High tier LCD monitors > LCD TVs
@@ -48,9 +48,9 @@ Most CRT monitors have a 15khz minimum scan limit, which means 480i@60fps will n
 
 The one downside to CRTs, especially consumer grade CRT TVs, is that they are often quite dark, making certain tracks, such as rBC, more difficult to drive on. 
 
-The only LCD monitor worth purchasing is the Viewsonic XG2431 due to it's low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag. It will have worse motion clarity than a CRT, however, its response times are far superior to any other monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
+The only LCD monitor worth purchasing is the Viewsonic XG2431 due to it's low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag. It will have worse motion clarity than a CRT, however, its response times are far superior to any other LCD monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
 
-[List of LCD monitors input lag @ 60hz (Note: Input](https://www.rtings.com/monitor/tools/table/111202)
+[List of LCD monitors input lag @ 60hz](https://www.rtings.com/monitor/tools/table/111202)
 
 
 
