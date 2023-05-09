@@ -25,9 +25,10 @@ Perfect setup:
 
 # Console
 
-- Wiis are superior to Wii U for latency. vWii emulation on the Wii U introduces roughly 1 frame of latency (16ms) (source:https://www.youtube.com/watch?v=Lb8zj5uKifk).
+- [Wiis are superior to Wii U for latency. vWii emulation on the Wii U introduces roughly 1 frame of latency (16ms)](source:https://www.youtube.com/watch?v=Lb8zj5uKifk).
 - [4:3 provides more vertical FOV, while 16:9 provides more horizontal FOV:](https://i.imgur.com/ctfwVZO.jpeg)
-- [WiiDual](https://www.retrorgb.com/wiidual.html) is a physical mod that enables the Wii to output lagless, high quality 480p via HDMI.
+- [WiiDual](https://www.retrorgb.com/wiidual.html) is a physical mod that enables the Wii high quality 480p via HDMI (without introducing additional input latency). This will look better than vWii's upscaled 1080p and 480p via component or Wii2HDMI.
+- [Wii HDMI Mod](https://arthrimus.com/product/wiihdmi-complete-install-service/)
 - [Wii2HDMI Converters add negligible amounts of latency](https://twitter.com/Kadano/status/1026867743587483649)
 
 # Controller
@@ -36,13 +37,15 @@ Perfect setup:
 
 Wired controllers will always have less latency than wireless ones.
 
-However, swapping controllers is not advisable as controller layout/familiarity is far more important than minor latency changes. However, with the adequate modding ability (technical knowledge and soldering), it's most likely possible to mod a wii to accept high-speed wireless. The bluetooth that the wii uses has about 16ms of added latency due to the controller used. Modern consoles have improved on this and gaming mice especially have pushed latency of wireless to be within 1-2ms of wired (or in some cases matching it). 
+However, swapping controllers is not advisable as controller layout/familiarity is far more important than minor latency changes. However, with the adequate modding ability (technical knowledge and soldering), it's most likely possible to mod a wii to accept high-speed wireless. 
 
-It may be possible to mod a Wii and controller to use a different bluetooth controller.
+- It may be possible to mod a Wii and controller to use a different bluetooth controller.
+- The Bluetooth the Wii uses has been shown to have roughly 16ms of latency in other consoles/applications.
+- There is an adapter for the Classic Controller that allows it to connect to a GC port. This adapter has 4ms of latency, so it will cut the input latency by roughly 12ms.
+- Phobb gamecube controllers and other similar will have more accurate and consistent input, as well as better longevity due to using hall-effect sensors rather than a normal stickbox. 
+- You may find it useful to add notches into the control stick for better softdrifting ability
 
-I also do not have access to an oscilloscope at the moment, so I cannot do latency testing. However, the Bluetooth the Wii uses has been shown to have roughly 16ms of latency in other consoles/applications.
 
-There is an adapter for the Classic Controller that allows it to connect to a GC port. This adapter has 4ms of latency, so it will cut the input latency by roughly 12ms.
 
 # Monitor
 CRTs will always be the best displays for console games due to them having virtually 0 input lag and perfect motion clarity. There are *some* LCDs that may get within 1-2ms of a CRT's input lag, however, almost all of these have horrible response times, leading to non-static 3D objects (such as walls, items, etc.) to be blurry. 
@@ -50,6 +53,12 @@ CRTs will always be the best displays for console games due to them having virtu
 Most CRT monitors have a 15khz minimum scan limit, which means 480i@60fps will not work. However, 480p@60fps is 31khz, and reaches the minimum scan limit. Because of this, any CRT monitor will provide lagless gameplay and you do not need to search for a high spec model that will cost you upwards of $500. 
 
 The one downside to CRTs, especially consumer grade CRT TVs, is that they are often quite dark, making certain tracks, such as rBC, more difficult to drive on. 
+
+The only LCD monitor worth purchasing is the Viewsonic XG2431 due to it's low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag. It will have worse motion clarity than a CRT, however, its response times are far superior to any other monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
+
+[List of LCD monitors input lag @ 60hz]
+
+
 
 
 
