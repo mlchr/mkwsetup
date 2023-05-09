@@ -19,7 +19,7 @@ Perfect setup:
 
 # Console
 
-- [Wiis are superior to Wii U for latency. vWii emulation on the Wii U introduces roughly 1 frame of latency (16ms)](source:https://www.youtube.com/watch?v=Lb8zj5uKifk).
+- [Wiis are superior to Wii U for latency. vWii emulation on the Wii U introduces roughly 1 frame of latency (16ms)](https://www.youtube.com/watch?v=Lb8zj5uKifk).
 - [4:3 provides more vertical FOV, while 16:9 provides more horizontal FOV:](https://i.imgur.com/ctfwVZO.jpeg)
 - [WiiDual](https://www.retrorgb.com/wiidual.html) is a physical mod that enables the Wii high quality 480p via HDMI (without introducing additional input latency). This will look better than vWii's upscaled 1080p and 480p via component or Wii2HDMI.
 - [Wii HDMI Mod](https://arthrimus.com/product/wiihdmi-complete-install-service/)
