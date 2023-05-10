@@ -45,9 +45,13 @@ CRTs will always be the best displays for console games due to them having virtu
 
 Most CRT monitors have a 15khz minimum scan limit, which means 480i@60fps will not work. However, 480p@60fps is 31khz, and reaches the minimum scan limit. Because of this, any CRT monitor will provide lagless gameplay and you do not need to search for a high spec model that will cost you upwards of $500. 
 
-The one downside to CRTs, especially consumer grade CRT TVs, is that they are often quite dark, making certain tracks, such as rBC, more difficult to drive on. 
+There are two primary downsides to CRTs
+- They can cause eye strain due to imperceivable flicker at 60hz
+- Worn out CRTs can be dark and make tracks like rBC appear darker than LCDs
 
-The only LCD monitor worth purchasing is the Viewsonic XG2431 due to it's low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag. It will have worse motion clarity than a CRT, however, its response times are far superior to any other LCD monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
+The only LCD monitor worth purchasing is the **Viewsonic XG2431** due to it's absurdly low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag at 60hz. It will have worse motion clarity than a CRT, however, its response times are far superior to any other LCD monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
+
+There are LCDs that are listed as 'high tier input lag', however, these were only particularly relevant for Super Smash Bros Melee, as that game is 2D and thus does not require good 3D motion clarity. 
 
 [List of LCD monitors input lag @ 60hz](https://www.rtings.com/monitor/tools/table/111202)
 
