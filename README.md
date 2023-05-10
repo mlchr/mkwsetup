@@ -49,7 +49,11 @@ There are two primary downsides to CRTs
 - They can cause eye strain due to imperceivable flicker at 60hz
 - Worn out CRTs can be dark and make tracks like rBC appear darker than LCDs
 
-The only LCD monitor worth purchasing is the **Viewsonic XG2431** due to it's absurdly low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag at 60hz. It will have worse motion clarity than a CRT, however, its response times are far superior to any other LCD monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
+The only best LCD monitor is the **Viewsonic XG2431** due to it's absurdly low processing latency of ~0.05ms, meaning it comes very close to a CRT in input lag at 60hz. It will have worse motion clarity than a CRT, however, its response times are far superior to any other LCD monitor at 60hz, so it will be less smeary/blurry than others. It is also one of the fastest 240hz monitors, so if you play competitive games other than Mario Kart Wii it is well worth the money. 
+
+(NOT FINISHED) Other LCD monitors that are potentially worth buying (input lag / total response time @ 60hz):
+- AOC 24G2 (8.7ms / 12.2ms)
+- 
 
 There are LCDs that are listed as 'high tier input lag', however, these were only particularly relevant for Super Smash Bros Melee, as that game is 2D and thus does not require good 3D motion clarity. 
 
